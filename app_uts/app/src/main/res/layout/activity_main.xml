@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <Button
+        android:id="@+id/btnKeBaseSatu"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="#2196F3"
+        android:text="Base Satu"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btnKeBaseDua"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="#2196F3"
+        android:text="Base Dua"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btnKeUtsActivity"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="#2196F3"
+        android:text="UTS"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btnBaseTiga"
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:backgroundTint="#2196F3"
+        android:text="Base Tiga"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>
