@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">UAS</string>
+    <string name="base_satu">Button</string>
+    <string name="uas">UAS</string>
+    <string name="quiz">Quiz</string>
+    <string name="nama_pelanggan">Nama Pelanggan</string>
+    <string name="harga_barang">Harga Barang</string>
+    <string name="jumlah_barang">Jumlah Barang</string>
+    <string name="tambah">Tambah</string>
+    <string name="proses">Proses</string>
+    <string name="kembali">Kembali</string>
+    <string name="hasil">Hasil</string>
+    <string name="quiz_stok_barang">Quiz</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="total_stok_barang">Total Stok Barang</string>
+    <string name="total_barang_keluar">Total Barang Keluar</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="proses_data">Proses Data</string>
+    <string name="hasil_format">
+Total Belanja : Rp %1$d
+Diskon        : Rp %2$d
+Total Bayar   : Rp %3$d
+</string>
+    <string name="error_input">Semua input harus diisi</string>
+    <string name="error_belum_data">Data belum ditambahkan</string>
+    <string name="base_satu1">Base Satu</string>
+    <string name="uas_">UAS</string>
+    <string name="kembali_">Kembali</string>
+</resources>
